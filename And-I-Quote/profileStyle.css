@@ -1,0 +1,10 @@
+.profileContainer {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+.profileBtn {
+  padding: 1%;
+  margin-left: 5%;
+  margin-right: 5%;
+}

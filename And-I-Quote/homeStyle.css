@@ -1,0 +1,27 @@
+.flex {
+  display: flex;
+}
+.adjust-height {
+  height: 67vh;
+}
+.search-image {
+  width: 70%;
+  margin-left: -5vw;
+}
+.search-container {
+  max-width: 600px;
+}
+/* Tablet  */
+@media (max-width: 991px) {
+  .search-image {
+    width: 65%;
+    margin-left: -8vw;
+  }
+}
+/* Mobile  */
+@media (max-width: 767px) {
+  .search-image {
+    width: 70%;
+    margin-left: -10vw;
+  }
+}

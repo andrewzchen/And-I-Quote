@@ -1,0 +1,16 @@
+.login-content {
+  text-align: center;
+  background-color: #e9ecef;
+  max-width: 600px;
+}
+.submit-btn {
+  border-radius: 15px;
+  font-size: 1.2em;
+  padding: 2% 20%;
+  margin-top: 3%;
+  background-color: #ACCEEF;
+  color: white;
+}
+.hidden {
+  display: none;
+}

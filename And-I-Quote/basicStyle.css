@@ -1,0 +1,44 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+* {
+	box-sizing: border-box;
+}
+body {
+  background-color: #e9ecef;
+}
+.bar-text {
+  margin-right: 15px;
+  color: black;
+  font-weight: bold;
+  font-size: 1.3em;
+}
+.title-text {
+  font-size: 1.7em;
+}
+.quote-main {
+  font-size: 1.3em;
+}
+.field-style {
+  border-radius: 15px;
+  padding: 5%;
+  font-size: 1.3em;
+}
+.center-text {
+  text-align: center;
+}
+/* Mobile  */
+@media (max-width: 767px) {
+  .quote-main {
+    font-size: 1.2em;
+  }
+  .field-style {
+    font-size: 1.1em;
+    border-radius: 12px;
+  }
+}
+/* Tablet */
+@media (max-width: 991px) {
+
+}
